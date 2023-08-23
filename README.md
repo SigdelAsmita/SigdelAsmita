@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi!
 I am currently studying in 5th sem, Electronics and Communication Engineering, IOE,Pulchowk
 - 🔭 I’m currently working on Niti-Legal-Chatbot
 - 🌱 I’m currently learning Django, Fast API, Machine Learning
